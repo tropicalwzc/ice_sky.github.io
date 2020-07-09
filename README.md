@@ -1,7 +1,8 @@
 # ice sky
 
 ---
-## macOS
+## macOS <https://apps.apple.com/cn/app/ice-sky/id1518396525?l=en#?platform=mac>
+## iOS <https://apps.apple.com/cn/app/ice-sky/id1518396525>
 
 ### 使用鼠标移动小蓝飞机
 ### 左键射击
